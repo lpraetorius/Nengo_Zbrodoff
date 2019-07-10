@@ -35,7 +35,7 @@ Memory module to memorise and retrieve problems of the form A+2=C.
 For recall:
 Switch off ll. 127, 129, 139 and 142-145.
 Make sure 'load_from' is active (l.133).
-Input should have the form 'ITEM1*B + ITEM2*TWO' (ll. 71-91).
+Input should have the form 'ITEM1\*B + ITEM2\*TWO' (ll. 71-91).
 Recall is run in Nengo GUI.
  
 For learning:
