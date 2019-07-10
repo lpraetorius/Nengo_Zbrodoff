@@ -13,7 +13,7 @@ NOTE: It is advised to use the nengo-ocl version included in this repository, as
 ## Nengo Model
 The following files contain different stages of development for the Nengo model. final_model.py contains the main model.
 ### final_model.py
-The final version, able to calculate, memorise and retrieve problems of the form A+2=C. 
+The final version, able to calculate, memorise and retrieve problems of the form A+2=C
 
 The problem can be presented in ll. 123-124.\
 For retrieval of a previously learned problem, 'load_from' must be active (l. 246).\
