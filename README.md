@@ -37,7 +37,7 @@ Switch off ll. 127, 129, 139 and 142-145.
 Make sure 'load_from' is active (l.133).
 Input should have the form 'ITEM1*B + ITEM2*TWO' (ll. 71-91).
 Recall is run in Nengo GUI.
-
+ 
 For learning:
 Switch on all learning parameters and connections (see recall).
 Optional: switch off 'load_from' (l. 133) to use an empty memory.
