@@ -7,6 +7,7 @@ Nengo requires python3 (version 3.6.8).
 
 To improve computing time, the OpenCL version of nengo was used (nengo-ocl version 1.4.0).
 nengo-ocl requires pyopencl (version 2018.1.1). The model failed to run using newer versions of pyopencl.
+
 NOTE: It is advised to use the nengo-ocl version included in this repository, as it contains a few additional files.
 
 ## Nengo Model
