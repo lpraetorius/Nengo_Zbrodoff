@@ -41,7 +41,7 @@ Recall is run in Nengo GUI.
 For learning:
 Switch on all learning parameters and connections (see recall).
 Optional: switch off 'load_from' (l. 133) to use an empty memory.
-Input should have the form 'ITEM1*B + ITEM2*TWO + RESULT*D' (ll. 71-91).
+Input should have the form 'ITEM1\*B + ITEM2\*TWO + RESULT*D' (ll. 71-91).
 To store memory, simulate model using shell command 'python3 bcm_zbrodoff.py'. Duration of simulation can be set in l. 156. Must be at least 1 second long. 
 ### count.py
 The count model before combining the different parts. Works for a limited range pf problems.
