@@ -2,7 +2,7 @@
 A Nengo model designed to count, learn and retrieve alphabet-arithmetic problems such as A+2=C and to respond YES or NO depending on the validity of the input problem.
 
 ## Installation
-The model was designed using Nengo (version 2.8.0).
+The model was designed using Nengo (version 2.8.0).\
 Nengo requires python3 (version 3.6.8).
 
 To improve computing time, the OpenCL version of nengo was used (nengo-ocl version 1.4.0).
