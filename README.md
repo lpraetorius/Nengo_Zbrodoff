@@ -1,5 +1,5 @@
 # Nengo_Zbrodoff
-A Nengo model designed to count, learn and retrieve alphabet-arithmetic problems.
+A Nengo model designed to count, learn and retrieve alphabet-arithmetic problems such as A+2=C and to respond YES or NO depending on the validity of the input problem.
 
 ## Installation
 The model was designed using Nengo (version 2.8.0).
